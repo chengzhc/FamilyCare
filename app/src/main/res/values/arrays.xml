@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="eat_status">
+        <item>极好</item>
+        <item>不错 </item>
+        <item>一般</item>
+        <item>不良</item>
+        <item>很差</item>
+    </string-array>
+    <string-array name="sweat_status">
+        <item>极好</item>
+        <item>不错 </item>
+        <item>一般</item>
+        <item>不良</item>
+        <item>很差</item>
+    </string-array>
+    <string-array name="tired_status">
+        <item>极好</item>
+        <item>不错 </item>
+        <item>一般</item>
+        <item>不良</item>
+        <item>很差</item>
+    </string-array>
+    <string-array name="sleep_status">
+        <item>极好</item>
+        <item>不错 </item>
+        <item>一般</item>
+        <item>不良</item>
+        <item>很差</item>
+    </string-array>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_blue_700_36dp"
+        android:title="首页" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_supervisor_account_blue_700_36dp"
+        android:title="家人" />
+
+<!--    <item-->
+<!--        android:id="@+id/navigation_tools"-->
+<!--        android:icon="@drawable/ic_build_blue_700_36dp"-->
+<!--        android:title="工具" />-->
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/ic_person_blue_700_24dp"
+        android:title="我的" />
+
+</menu>
